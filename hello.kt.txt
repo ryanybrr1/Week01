@@ -5,6 +5,6 @@
 fun main() {
     println("Hello World! What's up?")
     println("I am learning Kotlin.")
-    println("It's is awesome!!")
+    println("It is awesome!!")
     
 }
