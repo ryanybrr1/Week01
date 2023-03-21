@@ -1,3 +1,8 @@
+/*
+* Ryan Ybarra
+* 0.2 Variable Declaration
+* 02/09/2023
+*/
 fun main() {
     var myAge: Int = 33
     print(myAge)
